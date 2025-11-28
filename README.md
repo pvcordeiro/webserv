@@ -277,6 +277,7 @@ This project is part of the 42 School curriculum.
 ## 👨‍💻 Authors
 
 **pvcordeiro** - [GitHub](https://github.com/pvcordeiro)
+
 **afonsopc** - [GitHub](https://github.com/afonsopc)
 
 ---
