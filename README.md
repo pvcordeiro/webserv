@@ -270,17 +270,14 @@ siege -c 10 -r 100 http://localhost:8080/
 - Request body size limits prevent memory exhaustion attacks
 - The implementation follows HTTP/1.1 RFC 2616 specifications
 
-## 🤝 Contributing
-
-This is a 42 School project. Feel free to use it as reference, but please follow your school's academic integrity policies.
-
 ## 📄 License
 
 This project is part of the 42 School curriculum.
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **pvcordeiro** - [GitHub](https://github.com/pvcordeiro)
+**afonsopc** - [GitHub](https://github.com/afonsopc)
 
 ---
 
