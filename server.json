@@ -109,6 +109,18 @@
 					"methods": ["GET", "POST", "DELETE", "PUT", "PATCH", "OPTIONS"]
 				}
 			]
+		},
+		{
+			"port": 1146,
+			"host": "localhost",
+			"routes": [
+				{
+					"path": "/*",
+					"directory": "www",
+					"index": ["test.html"],
+					"methods": ["GET", "POST", "DELETE", "PUT", "PATCH", "OPTIONS"]
+				}
+			]
 		}
 	]
 }
